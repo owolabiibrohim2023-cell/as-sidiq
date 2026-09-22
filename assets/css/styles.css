@@ -201,6 +201,7 @@ body.nav-open .nav__toggle-lines::after { top: 0; transform: rotate(-45deg); }
   overflow: hidden;
   color: var(--white);
   background: var(--ink);
+  padding-left:20px;
   
 }
 .hero__media, .hero__veil, .hero__grid { position: absolute; inset: 0; }
