@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://contractorsidiq.netlify.app/sitemap.xml
