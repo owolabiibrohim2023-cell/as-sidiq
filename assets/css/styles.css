@@ -201,7 +201,7 @@ body.nav-open .nav__toggle-lines::after { top: 0; transform: rotate(-45deg); }
   overflow: hidden;
   color: var(--white);
   background: var(--ink);
-  padding-left: 100px;
+  
 }
 .hero__media, .hero__veil, .hero__grid { position: absolute; inset: 0; }
 .hero__media { z-index: -3; background: url("../images/hero-construction.jpg") center/cover no-repeat; transform: scale(1.015); }
